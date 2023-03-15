@@ -52,4 +52,3 @@ describe('sayHiToHeadphonedRoommate(string)', function() {
     );
   });
 })
-,
